@@ -7,3 +7,6 @@
 -[] I love algorithms but i hate maths.
 -[] Upskilling in right direction.
 
+-[] Kalaiselvi G
+-[] I love to imagine scenarios.
+-[] Going perfect.
