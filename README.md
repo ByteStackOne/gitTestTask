@@ -7,3 +7,6 @@
 -[] I love algorithms but i hate maths.
 -[] Upskilling in right direction.
 
+-[] Gokila S
+-[] I love algorithms.
+-[] Decision making 
