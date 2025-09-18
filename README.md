@@ -7,3 +7,6 @@
 -[] I love algorithms but i hate maths.
 -[] Upskilling in right direction.
 
+-[] Sahana K
+-[] I love problem solving
+-[] right path.
