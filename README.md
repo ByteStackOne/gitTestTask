@@ -7,3 +7,6 @@
 -[] I love algorithms but i hate maths.
 -[] Upskilling in right direction.
 
+-[] Madhan kumar M
+-[] I love DSA but hate graphs
+-[] Upskilling in right direction.
